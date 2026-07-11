@@ -1,0 +1,101 @@
+Energy Source,Region,Year,Energy Production (GWh),Investment (Million $),CO2 Reduction (Tons),Jobs Created,Efficiency (%)
+Hydropower,Europe,2021,,,6286,254,54
+Geothermal,Asia,2020,1156.0,452.0,5535,373,34
+Solar,South America,2021,2869.0,458.0,15731,708,46
+Biomass,Africa,2020,1702.0,379.0,16432,313,47
+Wind,Europe,2022,2193.0,292.0,5674,244,44
+Hydropower,South America,2022,1196.0,333.0,17223,194,49
+Geothermal,Asia,2024,2996.0,213.0,8803,793,59
+Wind,Asia,2020,2281.0,445.0,14834,383,38
+Wind,Asia,2023,1126.0,587.0,8554,614,60
+Hydropower,Africa,2021,2294.0,233.0,14980,423,24
+Wind,Europe,2023,1500.0,423.0,10216,426,60
+Hydropower,Asia,2021,1699.0,500.0,17464,182,40
+Solar,Europe,2024,2443.0,287.0,18358,472,33
+Geothermal,Europe,2022,2844.0,352.0,6287,402,55
+Biomass,North America,2024,1876.0,532.0,10543,520,34
+Geothermal,Asia,2020,1366.0,410.0,18108,262,29
+Geothermal,South America,2020,1455.0,555.0,10304,540,58
+Hydropower,South America,2020,,420.0,15145,267,54
+Hydropower,Asia,2022,1892.0,543.0,11123,311,49
+Hydropower,South America,2021,813.0,519.0,12317,258,60
+Biomass,South America,2021,2022.0,580.0,6504,532,30
+Biomass,Africa,2023,2972.0,150.0,4319,264,43
+Solar,Europe,2024,2059.0,272.0,19514,230,25
+Solar,South America,2021,2790.0,,6103,636,55
+Biomass,South America,2023,1476.0,285.0,19800,366,54
+Hydropower,North America,2025,1623.0,515.0,14647,532,48
+Solar,Europe,2021,2919.0,381.0,5049,496,21
+Wind,Asia,2020,1742.0,451.0,15597,796,23
+Solar,Africa,2020,1737.0,184.0,12423,393,37
+Biomass,Europe,2025,2788.0,259.0,19327,734,56
+Geothermal,North America,2021,2736.0,274.0,5545,249,47
+Geothermal,North America,2025,2251.0,366.0,4887,250,23
+Hydropower,Asia,2021,2449.0,522.0,7139,344,54
+Geothermal,Europe,2022,2637.0,221.0,11579,405,24
+Biomass,Asia,2020,,563.0,14684,703,20
+Wind,Europe,2023,1182.0,535.0,11956,642,33
+Wind,North America,2020,2442.0,180.0,10396,421,49
+Biomass,North America,2021,1968.0,366.0,7111,453,33
+Biomass,Asia,2025,1039.0,446.0,9138,208,23
+Biomass,Europe,2020,2752.0,407.0,19741,670,25
+Biomass,Asia,2025,1561.0,185.0,18120,390,45
+Wind,South America,2024,1291.0,441.0,4651,784,25
+Biomass,South America,2024,2517.0,486.0,9183,417,33
+Hydropower,North America,2021,2086.0,272.0,15004,457,49
+Solar,Asia,2023,2095.0,534.0,14177,726,26
+Wind,South America,2022,1100.0,425.0,6170,507,24
+Hydropower,Europe,2023,1800.0,,17660,706,39
+Biomass,Africa,2025,2966.0,154.0,5697,287,36
+Biomass,Europe,2022,1272.0,204.0,8616,769,33
+Hydropower,South America,2023,2204.0,254.0,8114,202,25
+Hydropower,Asia,2020,2534.0,574.0,9464,283,60
+Geothermal,South America,2025,,232.0,11007,724,20
+Wind,South America,2020,1258.0,188.0,17674,528,57
+Wind,Asia,2022,1406.0,370.0,9974,190,42
+Wind,Asia,2022,1660.0,499.0,16781,723,46
+Wind,Europe,2023,1433.0,271.0,4406,333,41
+Wind,Africa,2021,2486.0,560.0,16900,260,44
+Geothermal,Europe,2021,958.0,589.0,17378,621,42
+Wind,Europe,2020,2050.0,570.0,14813,347,45
+Solar,Africa,2022,2144.0,292.0,14510,671,45
+Solar,Asia,2022,2996.0,319.0,6925,744,36
+Biomass,North America,2022,956.0,205.0,15936,471,47
+Geothermal,South America,2021,2894.0,209.0,8173,195,47
+Biomass,Europe,2022,806.0,416.0,11066,221,41
+Solar,Africa,2024,2085.0,489.0,9067,568,40
+Hydropower,South America,2021,2448.0,506.0,7143,580,44
+Biomass,Africa,2023,1512.0,465.0,12977,150,39
+Geothermal,South America,2024,1975.0,257.0,14726,479,49
+Wind,South America,2023,,376.0,17004,323,25
+Biomass,Africa,2020,1962.0,,17409,390,39
+Wind,Europe,2020,1720.0,562.0,4757,400,50
+Geothermal,South America,2021,1098.0,383.0,15769,543,51
+Wind,Asia,2020,2436.0,274.0,16753,585,34
+Biomass,North America,2020,1520.0,561.0,13132,405,27
+Geothermal,South America,2024,2669.0,218.0,13755,474,48
+Biomass,North America,2021,2867.0,368.0,16184,636,48
+Wind,Africa,2024,1861.0,534.0,11939,791,35
+Solar,Africa,2021,1924.0,375.0,8451,493,40
+Wind,Europe,2023,1130.0,220.0,15369,306,33
+Geothermal,Africa,2024,1063.0,362.0,11633,575,23
+Geothermal,North America,2024,1647.0,576.0,19500,170,56
+Solar,Africa,2022,2358.0,394.0,16344,549,46
+Wind,Africa,2023,1703.0,399.0,11956,179,44
+Geothermal,Europe,2023,2176.0,492.0,19065,280,59
+Geothermal,South America,2024,2987.0,163.0,14862,177,25
+Geothermal,Europe,2020,,219.0,8262,538,40
+Hydropower,Africa,2023,1666.0,382.0,8558,581,36
+Solar,South America,2020,1135.0,390.0,19596,508,34
+Solar,Asia,2021,1081.0,549.0,7266,170,59
+Wind,North America,2025,1424.0,272.0,5874,727,33
+Hydropower,Africa,2021,2704.0,508.0,13926,771,27
+Solar,South America,2020,1470.0,309.0,19218,469,56
+Wind,Asia,2024,2337.0,,15315,792,35
+Hydropower,South America,2020,1217.0,506.0,17045,729,22
+Geothermal,Africa,2020,2222.0,422.0,12289,499,20
+Geothermal,Asia,2023,2520.0,571.0,19741,520,60
+Wind,North America,2021,2683.0,512.0,16022,684,37
+Geothermal,South America,2022,2780.0,388.0,9280,401,25
+Wind,North America,2024,1942.0,380.0,13999,538,41
+Hydropower,Europe,2023,917.0,403.0,7475,513,36
